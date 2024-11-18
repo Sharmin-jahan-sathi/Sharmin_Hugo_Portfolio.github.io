@@ -1,8 +1,7 @@
 ## Contact
 
-- **GitHub**: https://github.com/mashfiqmahi
-- **LinkedIn**: https://linkedin.com/in/mashfiqmahi  
-- **Facebook**: https://facebook.com/mashfiqmahi
-- **Twitter**: https://twitter.com/mashfiqmahi 
-- **Instagram**: https://instagram.com/mashfiqmahi  
-- **Phone**: 01905201279 
+- **GitHub**: https://github.com/Sharmin-jahan-sathi
+- **LinkedIn**: https://bd.linkedin.com/in/sharmin-jahan-sathi-a47103329  
+- **Facebook**: https://www.facebook.com/share/RjBTKSj3nLCE3HXY/?mibextid=qi2Omg
+- **Instagram**: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==  
+- **Phone**: 01744764242
