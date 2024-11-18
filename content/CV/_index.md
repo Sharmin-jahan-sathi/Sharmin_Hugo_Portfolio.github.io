@@ -1,5 +1,5 @@
 ---
-title: CV
+title: cv
 url: "CV"
 ---
 
