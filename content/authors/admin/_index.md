@@ -2,7 +2,6 @@
 # Display name
 title: Sharmin Jahan 
 
-
 # Full name ()
 first_name: Sharmin
 last_name: Jahan
