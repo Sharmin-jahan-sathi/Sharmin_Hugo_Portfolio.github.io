@@ -1,6 +1,5 @@
 ---
 title: curriculum vitae
-date:2024-11-18
 url: "CV"
 ---
 <div style="display: flex; align-items: center;">
