@@ -2,8 +2,6 @@
 title: cv
 url: "CV"
 ---
-
-
 <div style="display: flex; align-items: center;">
   <img src="./avatar.jpg" alt="sharmin" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
