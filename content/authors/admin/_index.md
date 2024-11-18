@@ -73,11 +73,11 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Web Development
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: IOT
         description: ''
         percent: 100
         icon: chart-bar
@@ -103,12 +103,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Bangla
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
