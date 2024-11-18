@@ -1,17 +1,15 @@
 ---
 # Display name
-title: Mahi
+title: Sharmin Jahan 
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
 
-# Full name (for SEO)
-first_name: Kazi Mashfiq Hossain
-last_name: Mahi
+# Full name ()
+first_name: Sharmin
+last_name: Jahan
 
 # Status emoji
-# status:
-#   icon: ☕️
+status:
+  icon: 🌿
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Web Developer
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,81 +29,59 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:kazimashfiqju@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/mashfiqmahi/
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/mashfiqmahi/
+    url: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==
   - icon: brands/github
-    url: https://github.com/mashfiqmahi/
+    url: https://github.com/Sharmin-jahan-sathi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/mashfiqmahi/
+    url: https://bd.linkedin.com/in/sharmin-jahan-sathi-a47103329
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Web Design
-  - IoT
+  - Web Development
+  - IOT
+  - Robotics
 
 education:
-  - area: Studies at Department of Coomputer Scienece and Engineering
+  - area: Department of Computer Science and Engineering
     institution: Jahangirnagar University
-    date_start: 2022-05-23
-    date_end: 2026-05-23
+    date_start: 2022-05-01
+    date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: Higher Secondary School Certificate
-    institution: Dania University College
+    institution: Dinajpur Govt.Women College
     date_start: 2018-01-01
-    date_end: 2020-01-01
+    date_end: 2020-05-01
     summary: |
-      GPA: 3.43/4.0
+      GPA: 5.0/5.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Secondary School Certificate
-    institution: Bright School and College
-    date_start: 2012-01-01
-    date_end: 2018-12-31
+    institution: Shohid Faruqe Iqbal Girls High School
+    date_start: 2016-01-01
+    date_end: 2018-04-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 5.0/5.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,9 +120,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Bangla
+  - name: Chinese
     percent: 75
-  - name: Hindi
+  - name: Portuguese
     percent: 25
 
 # Awards.
@@ -183,4 +159,4 @@ awards:
 
 ## About Me
 
-A tech-savvy individual with a strong foundation in programming, software development, web-development and graphics design. Proficient in Python, IoT development, and web design with hands-on  Passionate about leveraging technology to create innovative solutions and enhance user experiences.
+I am Sharmin Jahan Sathi, a Computer Science and Engineering student at Jahangirnagar University with a deep interest in web development,IOT and Robotics. I am passionate about designing innovative, efficient, and user-friendly web applications that push the boundaries of creativity and technology. I am particularly drawn to crafting user-centric web applications, exploring the possibilities of interconnected systems, and advancing intelligent automation. My vision is to create digital solutions that not only solve real-world problems but also inspire seamless interaction. Fueled by determination and a growth mindset, I am eager to make my mark in the ever-evolving realm of web technology.
