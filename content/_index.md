@@ -1,14 +1,15 @@
 ---
 # Display name
-title: Sharmin Jahan
+title: Sharmin Jahan 
 
-# Full name (for SJS)
-first_name: Sharmin Jahan
-last_name: Sathi
+
+# Full name ()
+first_name: Sharmin
+last_name: Jahan
 
 # Status emoji
-# status:
-#   icon: 🌿
+status:
+  icon: 🌿
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,8 +29,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sharminjahan12th@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==
   - icon: brands/github
@@ -43,23 +46,23 @@ profiles:
 
 interests:
   - Web Development
+  - IOT
   - Robotics
-  - IoT
 
 education:
-  - area: Studies at Department of Coomputer Scienece and Engineering
+  - area: Department of Computer Science and Engineering
     institution: Jahangirnagar University
-    date_start: 2022-05-23
-    date_end: 2026-05-23
+    date_start: 2022-05-01
+    date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: Higher Secondary School Certificate
-    institution: Dinajpur Govt. Women College
+    institution: Dinajpur Govt.Women College
     date_start: 2018-01-01
-    date_end: 2020-01-01
+    date_end: 2020-05-01
     summary: |
       GPA: 5.0/5.0
 
@@ -68,9 +71,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Secondary School Certificate
-    institution: SFI Girls High School
+    institution: Shohid Faruqe Iqbal Girls High School
     date_start: 2016-01-01
-    date_end: 2018-12-31
+    date_end: 2018-04-01
     summary: |
       GPA: 5.0/5.0
       
@@ -78,29 +81,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,9 +120,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Bangla
+  - name: Chinese
     percent: 75
-  - name: Hindi
+  - name: Portuguese
     percent: 25
 
 # Awards.
