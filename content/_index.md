@@ -30,4 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
+    block: markdown
+    content:
+      title: '📚 My Vision'
+      subtitle: ''
+      text: |-
+        A tech-savvy individual with a strong foundation in programming, software development, web-development and graphics design. Proficient in Python, IoT development, and web design with hands-on  Passionate about leveraging technology to create innovative solutions and enhance user experiences.
    ---
