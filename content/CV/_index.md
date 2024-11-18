@@ -63,7 +63,6 @@ Jahangirnagar University, Savar, Dhaka
 ## Certifications
 - Certified IoT Developer, Edge Skill, 2024  
 - Responsive Web Design,FreeCodeCamp,2024
-- <img src="./avaters.jpg" alt="sharmin" style="width: 200px; height: auto; margin-right: 20px;">
   
   
 
