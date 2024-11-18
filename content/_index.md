@@ -32,14 +32,31 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Future Career plan'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-        Please reach out to collaborate 😃
+Advance Technical Skills:
+Master Python, AI/ML, React.js, and IoT protocols. Learn cloud platforms (AWS, Azure) and mobile app development (Flutter, React Native).
+
+Enhance Web Development:
+Focus on responsive design, performance optimization, and progressive web apps (PWA).
+
+Specialize in IoT:
+Build smart projects integrating IoT and ML. Stay updated with emerging technologies like 5G and edge computing.
+
+Certifications:
+Obtain credentials in Cybersecurity, AI/ML, and IoT for career advancement.
+
+Innovative Projects:
+Solve real-world problems through open-source contributions and personal tech projects.
+
+Career Goals:
+Aim for leadership roles or start a tech venture in web development, IoT, or graphics design.
+
+Lifelong Learning:
+Stay current with tech trends, network, and build a personal brand through blogging and public platforms.
+
     design:
       columns: '1'
   
