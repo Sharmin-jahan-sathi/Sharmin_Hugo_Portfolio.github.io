@@ -36,26 +36,13 @@ sections:
       subtitle: ''
       text: |-
         
-Advance Technical Skills:
-Master Python, AI/ML, React.js, and IoT protocols. Learn cloud platforms (AWS, Azure) and mobile app development (Flutter, React Native).
-
-Enhance Web Development:
-Focus on responsive design, performance optimization, and progressive web apps (PWA).
-
-Specialize in IoT:
-Build smart projects integrating IoT and ML. Stay updated with emerging technologies like 5G and edge computing.
-
-Certifications:
-Obtain credentials in Cybersecurity, AI/ML, and IoT for career advancement.
-
-Innovative Projects:
-Solve real-world problems through open-source contributions and personal tech projects.
-
-Career Goals:
-Aim for leadership roles or start a tech venture in web development, IoT, or graphics design.
-
-Lifelong Learning:
-Stay current with tech trends, network, and build a personal brand through blogging and public platforms.
+1.Master Python, AI/ML, React.js, and IoT protocols. Learn cloud platforms (AWS, Azure) and mobile app development (Flutter, React Native).
+2.Focus on responsive design, performance optimization, and progressive web apps (PWA).
+3.Build smart projects integrating IoT and ML. Stay updated with emerging technologies like 5G and edge computing.
+4.Obtain credentials in Cybersecurity, AI/ML, and IoT for career advancement.
+5.Solve real-world problems through open-source contributions and personal tech projects.
+6.Aim for leadership roles or start a tech venture in web development, IoT, or graphics design.
+7.Stay current with tech trends, network, and build a personal brand through blogging and public platforms.
 
     design:
       columns: '1'
