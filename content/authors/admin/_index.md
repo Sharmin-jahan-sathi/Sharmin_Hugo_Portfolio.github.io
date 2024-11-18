@@ -1,15 +1,17 @@
 ---
 # Display name
-title: Sharmin Jahan 
+title: 吳健雄
 
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
 
-# Full name ()
-first_name: Sharmin
-last_name: Jahan
+# Full name (for SEO)
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon: 🌿
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Jahangirnagar University
-    url: https://juniv.edu/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,54 +36,76 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/Sharmin-jahan-sathi
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://bd.linkedin.com/in/sharmin-jahan-sathi-a47103329
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Web Development
-  - IOT
-  - Robotics
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: Department of Computer Science and Engineering
-    institution: Jahangirnagar University
-    date_start: 2022-05-01
-    date_end: ''
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Higher Secondary School Certificate
-    institution: Dinajpur Govt.Women College
-    date_start: 2018-01-01
-    date_end: 2020-05-01
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 5.0/5.0
+      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Secondary School Certificate
-    institution: Shohid Faruqe Iqbal Girls High School
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
-    date_end: 2018-04-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 5.0/5.0
+      GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -159,4 +183,4 @@ awards:
 
 ## About Me
 
-I am Sharmin Jahan Sathi, a Computer Science and Engineering student at Jahangirnagar University with a deep interest in web development,IOT and Robotics. I am passionate about designing innovative, efficient, and user-friendly web applications that push the boundaries of creativity and technology. I am particularly drawn to crafting user-centric web applications, exploring the possibilities of interconnected systems, and advancing intelligent automation. My vision is to create digital solutions that not only solve real-world problems but also inspire seamless interaction. Fueled by determination and a growth mindset, I am eager to make my mark in the ever-evolving realm of web technology.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
