@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Portfolio
+date: 2024-10-26
+external_link: https://github.com/Sharmin-jahan-sathi/Portfolio
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A portfolio is a curated collection of your work, showcasing your skills, experience, and achievements.
 
 <!--more-->
