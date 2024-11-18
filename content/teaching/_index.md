@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Contact
+summary: My Contact
 type: landing
 
 cascade:
