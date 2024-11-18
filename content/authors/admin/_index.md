@@ -52,11 +52,7 @@ education:
     institution: Jahangirnagar University
     date_start: 2022-05-01
     date_end: ''
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    
   - area: Higher Secondary School Certificate
     institution: Dinajpur Govt.Women College
     date_start: 2018-01-01
@@ -64,21 +60,12 @@ education:
     summary: |
       GPA: 5.0/5.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Secondary School Certificate
     institution: Shohid Faruqe Iqbal Girls High School
     date_start: 2016-01-01
     date_end: 2018-04-01
     summary: |
       GPA: 5.0/5.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 # Skills
