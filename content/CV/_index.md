@@ -7,7 +7,7 @@ url: "CV"
 <div style="display: flex; align-items: center;">
   <img src="./avatar.jpg" alt="sharmin" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
-    <h1>Sharmin Jahan Sathi</h1>
+    <h3>Sharmin Jahan Sathi</h3>
     <p><em>Student</em></p>
     <p>Studies at Department of Computer Science & Engineering in Jahangirnagar University</p>
   </div>
