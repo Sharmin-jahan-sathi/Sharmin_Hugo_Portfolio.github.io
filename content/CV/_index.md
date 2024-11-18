@@ -5,7 +5,7 @@ url: "CV"
 
 
 <div style="display: flex; align-items: center;">
-  <img src="./avatar.jpg" alt="sharmin" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="./avatar.jpg" alt="sharmin" margin-right: 20px;">
   <div>
     <h1>Sharmin Jahan Sathi</h1>
     <p><em>Student</em></p>
