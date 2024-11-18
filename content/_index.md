@@ -35,7 +35,11 @@ sections:
       title: '📚 Future Career plan'
       subtitle: ''
       text: |-
-      A tech-savvy individual with a strong foundation in programming, software development, web-development and graphics design. Proficient in Python, IoT development, and web design with hands-on  Passionate about leveraging technology to create innovative solutions and enhance user experiences.  
+      Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃 
 
     design:
       columns: '1'
