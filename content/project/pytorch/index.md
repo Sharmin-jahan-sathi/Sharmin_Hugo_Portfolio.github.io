@@ -1,13 +1,13 @@
 ---
 title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+date: 2024-10-26
+external_link: https://github.com/Sharmin-jahan-sathi/freecodecamp-link/blob/main/build-a-survey-form.txt
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Survey Form.
 
 <!--more-->
